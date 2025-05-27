@@ -25,7 +25,7 @@ namespace pocketmine\nbt;
 
 use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\nbt\tag\Tag;
-use pocketmine\utils\Limits;
+use Limits;
 use function sprintf;
 use function strlen;
 

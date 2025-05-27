@@ -26,7 +26,7 @@ namespace pocketmine\nbt\tag;
 use pocketmine\nbt\NBT;
 use pocketmine\nbt\NbtStreamReader;
 use pocketmine\nbt\NbtStreamWriter;
-use pocketmine\utils\Binary;
+use Binary;
 use function func_num_args;
 
 final class FloatTag extends ImmutableTag{

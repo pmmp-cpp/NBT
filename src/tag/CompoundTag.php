@@ -29,7 +29,7 @@ use pocketmine\nbt\NbtStreamWriter;
 use pocketmine\nbt\NoSuchTagException;
 use pocketmine\nbt\ReaderTracker;
 use pocketmine\nbt\UnexpectedTagTypeException;
-use pocketmine\utils\Limits;
+use Limits;
 use function count;
 use function func_num_args;
 use function get_class;

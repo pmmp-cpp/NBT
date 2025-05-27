@@ -23,7 +23,7 @@ declare(strict_types=1);
 
 namespace pocketmine\nbt;
 
-use pocketmine\utils\BinaryDataException;
+use BinaryDataException;
 
 /**
  * @internal

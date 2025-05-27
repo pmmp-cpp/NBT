@@ -24,9 +24,9 @@ declare(strict_types=1);
 namespace pocketmine\nbt;
 
 use pocketmine\nbt\tag\Tag;
-use pocketmine\utils\Binary;
-use pocketmine\utils\BinaryDataException;
-use pocketmine\utils\BinaryStream;
+use Binary;
+use BinaryDataException;
+use BinaryStream;
 use function strlen;
 
 /**
